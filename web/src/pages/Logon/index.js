@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import { FiLogIn } from 'react-icons/fi';
 
 import './styles.css';
@@ -20,10 +21,10 @@ export default function Logon() {
             Log in
           </button>
 
-          <a href="/register">
+          <Link className="back-link" to="/register">
             <FiLogIn color="#e02041" size={16} />
             Sign up today
-          </a>
+          </Link>
         </form>
       </section>
 
