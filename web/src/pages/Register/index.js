@@ -13,7 +13,10 @@ export default function Register() {
         <section>
           <img src={logoImg} alt="Be The Hero" />
           <h1>Sign Up</h1>
-          <p>Sign Up today and guide your ONG to a better place.</p>
+          <p>
+            Sign up today and get support for your incidents, with our community
+            help.
+          </p>
 
           <Link className="back-link" to="/">
             <FiArrowLeft color="#e02041" size={16} />
