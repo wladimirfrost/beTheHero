@@ -40,9 +40,9 @@ BeTheHero é um projeto que visa conectar pessoas com capital investidor a ONGs.
 ## 🤝 Contributing
 
 - Fork the repository;
-- Create a branch for your edits: `git checkout -b new-feature`
-- Commit changes to your own branch: `git commit -m 'feat: New feature'`
-- Push the change back to your fork: `git push origin new-feature`
+- Create a branch for your edits: `git checkout -b new-feature`;
+- Commit changes to your own branch: `git commit -m 'feat: New feature'`;
+- Push the change back to your fork: `git push origin new-feature`;
 
 Submit a Pull request. We will review and merge your change.
 
