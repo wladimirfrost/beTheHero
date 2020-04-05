@@ -26,7 +26,7 @@
 
 ## 🌍 Ecosystem
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Below the Stack (set of tools), used to build this project. High productivity and performance:
 
 |                      Environment                            |                         Description                     |
 |:-----------------------------------------------------------:|:-------------------------------------------------------:|
