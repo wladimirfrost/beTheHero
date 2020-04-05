@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-  🚀 Semana OmniStack 11.0
+  OmniStack 11.0
 </h4>
 
 <p align="center">
@@ -24,7 +24,7 @@
   <img alt="Frontend" src=".github/beTheHero.png" width="100%">
 </p>
 
-## :rocket: Ecosystem
+## 🌍 Ecosystem
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
