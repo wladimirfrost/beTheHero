@@ -24,14 +24,16 @@
   <img alt="Frontend" src=".github/beTheHero.png" width="100%">
 </p>
 
-## :rocket: Tecnologias
+## :rocket: Ecosystem
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Node.js](https://nodejs.org/en/)
-- [React](https://reactjs.org)
-- [React Native](https://facebook.github.io/react-native/)
-- [Expo](https://expo.io/)
+|                      Environment                            |                         Description                     |
+|:-----------------------------------------------------------:|:-------------------------------------------------------:|
+|<a href="https://nodejs.org/en/"><img width="48" height="48" src=".github/nodejs.svg"></a>| As an asynchronous event-driven JavaScript runtime |
+|<a href="https://reactjs.org"><img width="48" height="48" src=".github/react.svg"></a>| A JavaScript library for building user interfaces |
+|<a href="https://facebook.github.io/react-native/"><img width="48" height="48" src=".github/reactNative.svg"></a>| To create native apps for Android and iOS |
+|<a href="https://expo.io/"><img width="48" height="48" src=".github/expo.svg"></a>| Enables you to build universal native apps using only JavaScript |
 
 ## 💻 Projeto
 
