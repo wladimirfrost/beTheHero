@@ -12,9 +12,9 @@ export default function Detail() {
   const route = useRoute();
 
   const { incident } = route.params;
-  const valueFormatted = Intl.NumberFormat('pt-BR', {
+  const valueFormatted = Intl.NumberFormat('en-US', {
     style: 'currency',
-    currency: 'BRL',
+    currency: 'USD',
   }).format(incident.value);
 
   const message = `Hi ${incident.name}, I would like to help with the ${incident.title} case, with that amount: ${valueFormatted}`;

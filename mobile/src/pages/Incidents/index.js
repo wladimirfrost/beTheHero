@@ -71,9 +71,9 @@ export default function Incidents() {
 
             <Text style={styles.incidentProperty}>AMOUNT:</Text>
             <Text style={styles.incidentValue}>
-              {Intl.NumberFormat('pt-BR', {
+              {Intl.NumberFormat('en-US', {
                 style: 'currency',
-                currency: 'BRL',
+                currency: 'USD',
               }).format(incident.value)}
             </Text>
 
