@@ -35,9 +35,30 @@ Below the Stack (set of tools), used to build this project. High productivity an
 |<a href="https://facebook.github.io/react-native/"><img width="48" height="48" src=".github/reactNative.svg"></a>| To create native apps for Android and iOS |
 |<a href="https://expo.io/"><img width="48" height="48" src=".github/expo.svg"></a>| Enables you to build universal native apps using only JavaScript |
 
-## 💻 Projeto
+## 💻 Getting started
 
-BeTheHero é um projeto que visa conectar pessoas com capital investidor a ONGs.
+You can get this application running on your local environment in 5 minutes with these steps:
+
+**Backend**
+
+1. Clone the repository;
+2. Move into the project folder: `cd backend`;
+3. Run `yarn` to install all the dependencies;
+4. Run `yarn dev`;
+
+**Webpage**
+
+1. Clone the repository;
+2. Move into the project folder: `cd web`;
+3. Run `yarn` to install all the dependencies;
+4. Run `yarn start`;
+
+**Mobile app**
+
+1. Clone the repository;
+2. Move into the project folder: `cd mobile`;
+3. Run `yarn` to install all the dependencies;
+4. Run `yarn start`;
 
 ## 🤝 Contributing
 
