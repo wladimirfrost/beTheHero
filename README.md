@@ -48,17 +48,17 @@ You can get this application running on your local environment in 5 minutes with
 
 **Webpage**
 
-1. Clone the repository;
-2. Move into the project folder: `cd web`;
-3. Run `yarn` to install all the dependencies;
-4. Run `yarn start`;
+5. Clone the repository;
+6. Move into the project folder: `cd web`;
+7. Run `yarn` to install all the dependencies;
+8. Run `yarn start`;
 
 **Mobile app**
 
-1. Clone the repository;
-2. Move into the project folder: `cd mobile`;
-3. Run `yarn` to install all the dependencies;
-4. Run `yarn start`;
+5. Clone the repository;
+6. Move into the project folder: `cd mobile`;
+7. Run `yarn` to install all the dependencies;
+8. Run `yarn start`;
 
 ## 🤝 Contributing
 
