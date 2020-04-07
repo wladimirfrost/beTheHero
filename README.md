@@ -58,7 +58,7 @@ You can get this application running on your local environment in few minutes wi
 6. Replace _baseURL_ in [api](mobile/src/services/api.js) file.
 7. Run `yarn` to install all the dependencies;
 8. Run `yarn start`;
-9. Download Expo App for <a href="https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=www">Android</a> or <a href="https://apps.apple.com/app/apple-store/id982107779">IPhone</a>;
+9. Download Expo App for <a href="https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=www">Android</a> or <a href="https://apps.apple.com/app/apple-store/id982107779">iOS</a>;
 10. Scan the QR code;
 
 ## 🤝 Contributing
