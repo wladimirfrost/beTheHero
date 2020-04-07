@@ -1,9 +1,9 @@
 import axios from 'axios';
 
-//For Android set -> baseURL: `http://${your_IP}:3333`
+//Replace the variable Your_IP with your IP
 
 const api = axios.create({
-  baseURL: 'http://localhost:3333',
+  baseURL: `http://${Your_IP}:3333`,
 });
 
 export default api;
