@@ -54,6 +54,7 @@ You can get this application running on your local environment in few minutes wi
 
 **Mobile app**
 
+5. Replace `baseURL` in [API](mobile/src/services/api.js) file.
 5. Move into the project folder: `cd mobile`;
 6. Run `yarn` to install all the dependencies;
 7. Run `yarn start`;
