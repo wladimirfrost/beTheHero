@@ -26,7 +26,7 @@
 
 ## 🌍 Ecosystem
 
-Below the Stack (set of tools), used to build this project. High productivity and performance:
+Below the Stack (set of tools) used to build this project. High productivity and performance:
 
 |                      Environment                            |                         Description                     |
 |:-----------------------------------------------------------:|:-------------------------------------------------------:|
@@ -37,7 +37,7 @@ Below the Stack (set of tools), used to build this project. High productivity an
 
 ## 💻 Getting started
 
-You can get this application running on your local environment in 5 minutes with these steps:
+You can get this application running on your local environment in few minutes with these steps:
 
 **Backend**
 
