@@ -57,6 +57,8 @@ You can get this application running on your local environment in 5 minutes with
 5. Move into the project folder: `cd mobile`;
 6. Run `yarn` to install all the dependencies;
 7. Run `yarn start`;
+8. Download Expo App for <a href="https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=www">Android</a> or <a href="https://apps.apple.com/app/apple-store/id982107779">IPhone</a>;
+9. Scan the QR code;
 
 ## 🤝 Contributing
 
