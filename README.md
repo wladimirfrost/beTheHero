@@ -7,12 +7,12 @@
 </h4>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/wladimirfrost/beTheHero">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/wladimirgrf/be-the-hero">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/wladimirfrost/beTheHero">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/wladimirgrf/be-the-hero">
 
-  <a href="https://github.com/wladimirfrost/beTheHero/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/wladimirfrost/beTheHero">
+  <a href="https://github.com/wladimirgrf/be-the-hero/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/wladimirgrf/be-the-hero">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
